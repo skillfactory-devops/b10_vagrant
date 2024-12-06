@@ -13,7 +13,7 @@ $ mkdir pg8.4
 $ cd pg8.4
 $ vagrant init irbisnet/postgresql-8.4 --box-version 1.0.0
 ```
-* Отредактировал Vagrantfile, запустил Box:
+* Отредактировал [Vagrantfile](https://github.com/skillfactory-devops/b10_vagrant/blob/main/Vagrantfile), запустил Box:
 ```
 $ vagrant up
 Bringing machine 'default' up with 'virtualbox' provider...
